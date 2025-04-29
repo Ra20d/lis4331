@@ -23,7 +23,7 @@
     - Add background color to tip calculator
 
 3. [A3 README.md](a3/Assignment_READMEa3.md "My a3 README.md file")
-    - Make application scrolable 
+    - Make application scrollable 
     - Java skillsets 4-6
     - Backwards engineer java skill sets
     - Create currency converter
