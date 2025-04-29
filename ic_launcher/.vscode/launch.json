@@ -1,0 +1,37 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PaintCalculator",
+      "request": "launch",
+      "mainClass": "PaintCalculator",
+      "projectName": "lis4331_165e1993"
+    },
+    {
+      "type": "java",
+      "name": "exam",
+      "request": "launch",
+      "mainClass": "exam",
+      "projectName": "lis4331_165e1993"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/roman/CLionProjects/untitled",
+      "program": "c:/Users/roman/CLionProjects/untitled/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
